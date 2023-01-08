@@ -1,0 +1,18 @@
+.h-1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.my-nav{
+    background-color: #25262F;
+}
+.nav-link  {
+    color: white;
+}
+.Personal{
+    background-color: #25262F;
+}
+.nav{
+    color: white;
+    font-size: 110px;
+    line-height: .9;
+}
